@@ -10,3 +10,5 @@ Files:
 1. generateRandomSampleData - to generate some sample data up to specified file size
 2. no-itsnotBigData - to read the csv files
 3. readCSVtimings - to generate diagrams with read timings
+
+![](read-CSV-from-Disc-Blaze-CSV-Pandas-Python.png)
